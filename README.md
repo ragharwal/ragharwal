@@ -27,3 +27,7 @@
 <p align="center">&nbsp;<img width="480" src="https://github-readme-stats.vercel.app/api?username=ragharwal&theme=tokyonight&show_icons=true&locale=en" alt="ragharwal" /><img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=ragharwal&theme=tokyonight&show_icons=true&locale=en" alt="ragharwal" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragharwal&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="ragharwal" /></p>
 
+<p align="center">
+  <img src="https://github.com/ragharwal/ragharwal/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
