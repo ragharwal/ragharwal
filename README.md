@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Raghav Agarwal" src="https://raw.githubusercontent.com/ragharwal/ragharwal/main/assets/avatarWithoutBG.png"/>
+<img align="left" width="150" height="150" alt="Raghav Agarwal" src="https://github.com/ragharwal/ragharwal/blob/main/assests/avatarwithoutBG.png?raw=true"/>
 
 ### I'm [Raghav Agarwal](https://ragharwal.me) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
@@ -33,7 +33,7 @@ const ragharwal = {
 ```
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=60&section=footer"/>
 </p>
 
 
