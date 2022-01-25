@@ -20,7 +20,7 @@ const ragharwal = {
     pronouns: "He" | "Him",
 
     skills: {
-        programmingLanguages: ["Javascript", "Python", "Scala", Java],
+        programmingLanguages: ["Javascript", "Python", "Scala", "Java"],
         frontendDevelopment: ["React", "Bootstrap", "CSS", "HTML", "SASS"],
         backendDevelopment: ["NodeJS", "Express", "Kafka", "Hadoop"],
         databases: ["MongoDB", "MySQL", "Oracle", "Hive", "SqLite"],
