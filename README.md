@@ -2,7 +2,7 @@
 
 ### I'm [Raghav Agarwal](https://ragharwal.me) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-A Pre-Final Year Student, Pursuing Computer Science Engineering with a Specialization in Big Data from [University of Petroleum and Energy Studies](https://www.upes.ac.in/) and a Passionate Self-Taught Full Stack Web Developer.
+A Final Year Student, Pursuing Computer Science Engineering with a Specialization in Big Data from [University of Petroleum and Energy Studies](https://www.upes.ac.in/) and a Passionate Self-Taught Full Stack Web Developer.
 
 [![Linkedin: raghav](https://img.shields.io/badge/-ragharwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ragharwal/)](https://www.linkedin.com/in/ragharwal/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ragharwal?label=Follow)](https://twitter.com/intent/follow?screen_name=ragharwal)
